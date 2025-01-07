@@ -1,5 +1,13 @@
+/**
+ Sample class
+ */
 public class Welcome {
-    public static void main(String[] args) {
+    /**
+     Welcoming Myself to Java
+
+     @param args Default Argument
+     */
+    public static void main (String[] args) {
         System.out.println("Welcome to Java!");
     }
 }
